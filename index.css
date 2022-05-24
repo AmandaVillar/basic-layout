@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 header {
     background-color: #5a523c;
     color: #f2ddab;
@@ -15,9 +19,6 @@ main {
     border-style: solid;
     color: black;
 }
-img {
-    size: cover;
-}
 h2 {
     font-size: 40px;
 }
@@ -25,5 +26,13 @@ h3 {
      font-size: 30px;
 }
 p {
+    font-size: 18px;
+}
+footer {
+    background-color: #5a523c;
+    color: #f2ddab;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px 20px;
     font-size: 18px;
 }
