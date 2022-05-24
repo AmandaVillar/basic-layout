@@ -1,0 +1,29 @@
+header {
+    background-color: #5a523c;
+    color: #f2ddab;
+    text-align: center;
+    padding: 25px 0px;
+    margin-bottom: 5px;
+    font-size: 40px;
+}
+main {
+    background-color: bisque;
+    width: fit-content;
+    padding: 10px 20px;
+    border-color: #F7B318;
+    border-width: 5px;
+    border-style: solid;
+    color: black;
+}
+img {
+    size: cover;
+}
+h2 {
+    font-size: 40px;
+}
+h3 {
+     font-size: 30px;
+}
+p {
+    font-size: 18px;
+}
